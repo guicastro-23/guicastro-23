@@ -1,6 +1,5 @@
 ## Hi, I'm Guilherme Castro 
 
----
 
 Full-Stack Developer building web applications with **Laravel, React, Next.js, DevOps**.
 
